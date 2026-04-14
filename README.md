@@ -172,7 +172,7 @@ Building something that's being used by a real Irish company makes every feature
 
 ## 🔗 Live Demo
 
-[https://takestockireland.up.railway.app](https://takestockireland.up.railway.app)
+🚧 Coming soon...
 
 ---
 
